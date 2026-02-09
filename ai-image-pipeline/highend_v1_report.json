@@ -1,0 +1,23 @@
+[
+  {
+    "source": "/home/galaxy/projects/babynails/web-app/public/images/products/pearl-glaze-almond.png",
+    "output": "/home/galaxy/projects/babynails/web-app/public/images/products/brand_generated_highend/pearl-glaze-almond-highend-v1.jpg",
+    "prompt_zh": "将这张美甲商品图重制为 BabyNails 网站电商主图：保留珍珠釉面杏仁甲片的核心纹理与形状，置于干净的浅米白到暖灰渐变背景，统一柔和棚拍光线，轻微高级高光与真实阴影。整体风格高端、克制、奢华但不过度；构图居中，留出适合 shop 卡片裁切的安全边距；画面清晰、细节精致、无手模、无文字、无水印。",
+    "prompt_en": "Recreate this nail product image as a premium ecommerce hero image for BabyNails. Preserve the pearl-glazed almond nail tip texture and shape, place it on a clean light beige-to-warm gray gradient background, with consistent soft studio lighting, subtle premium highlights, and realistic soft shadows. Keep the style high-end, minimal, luxurious but not excessive. Centered composition with safe margins for shop-card crop, crisp detail, no hands, no text, no watermark.",
+    "negative": "Low resolution, harsh shadows, color cast, over-saturation, excessive props, busy background, typography, watermark, logo, human hands, distorted nail shapes, inconsistent lighting."
+  },
+  {
+    "source": "/home/galaxy/projects/babynails/web-app/public/images/products/luxury-coffin-marble.png",
+    "output": "/home/galaxy/projects/babynails/web-app/public/images/products/brand_generated_highend/luxury-coffin-marble-highend-v1.jpg",
+    "prompt_zh": "将这张大理石纹棺形甲片商品图升级为高端电商图：准确保留黑白/灰金大理石纹理与甲片轮廓，背景使用干净奶白色，统一柔和顶侧光，增强材质层次与轻奢质感但避免夸张反光。画面简洁专业、品牌统一、可直接用于 BabyNails 商品卡片；主体居中，边缘留白充足；超清细节，无杂物、无文字、无logo、无水印。",
+    "prompt_en": "Upgrade this marble coffin nail product image into a premium ecommerce visual. Faithfully preserve the black/white (and subtle gold) marble pattern and nail-tip silhouette. Use a clean creamy-white background with consistent soft top-side studio lighting, refined material depth, and understated luxury without flashy reflections. Keep it minimal, professional, and brand-consistent for BabyNails shop cards; centered subject with generous negative space; ultra-clean details, no clutter, no text, no logo, no watermark.",
+    "negative": "Low resolution, harsh shadows, color cast, over-saturation, excessive props, busy background, typography, watermark, logo, human hands, distorted nail shapes, inconsistent lighting."
+  },
+  {
+    "source": "/home/galaxy/projects/babynails/web-app/public/images/products/french-glazed-donut.png",
+    "output": "/home/galaxy/projects/babynails/web-app/public/images/products/brand_generated_highend/french-glazed-donut-highend-v1.jpg",
+    "prompt_zh": "把这张法式 glazed donut 风格甲片图重制为高端品牌电商图：保留半透明奶白与镜面糖霜光泽细节，背景为干净浅灰白，统一柔和光线并保持色温一致，突出细腻通透感和高级质感。风格简洁、现代、轻奢不过度，适配 BabyNails 网站商品卡片展示；主体居中且比例稳定，四周留白；无人物、无文字、无水印、无多余道具。",
+    "prompt_en": "Restyle this French glazed-donut nail tip image into a premium brand ecommerce image. Preserve the translucent milky white tones and glossy glazed shine details. Use a clean light gray-white background with unified soft lighting and consistent color temperature, emphasizing refined translucency and upscale finish. Keep it clean, modern, and subtly luxurious for BabyNails product cards; centered stable composition with balanced whitespace; no people, no text, no watermark, no extra props.",
+    "negative": "Low resolution, harsh shadows, color cast, over-saturation, excessive props, busy background, typography, watermark, logo, human hands, distorted nail shapes, inconsistent lighting."
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "total": 3,
+  "success": 3,
+  "failed": 0,
+  "output_dir": "/home/galaxy/projects/babynails/web-app/public/images/products/brand_generated",
+  "logs": [
+    {
+      "sku": "3d-chrome-molten-gold",
+      "status": "success",
+      "output": "/home/galaxy/projects/babynails/web-app/public/images/products/brand_generated/3d-chrome-molten-gold-brand-v1.png",
+      "stdout": "Saved: /home/galaxy/projects/babynails/web-app/public/images/products/brand_generated/3d-chrome-molten-gold-brand-v1.png"
+    },
+    {
+      "sku": "abstract-line-art",
+      "status": "success",
+      "output": "/home/galaxy/projects/babynails/web-app/public/images/products/brand_generated/abstract-line-art-brand-v1.png",
+      "stdout": "Saved: /home/galaxy/projects/babynails/web-app/public/images/products/brand_generated/abstract-line-art-brand-v1.png"
+    },
+    {
+      "sku": "blush-aura",
+      "status": "success",
+      "output": "/home/galaxy/projects/babynails/web-app/public/images/products/brand_generated/blush-aura-brand-v1.png",
+      "stdout": "Saved: /home/galaxy/projects/babynails/web-app/public/images/products/brand_generated/blush-aura-brand-v1.png"
+    }
+  ]
+}

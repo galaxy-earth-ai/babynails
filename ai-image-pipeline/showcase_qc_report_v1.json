@@ -1,0 +1,50 @@
+[
+  {
+    "sku": "pearl-glaze-almond",
+    "file": "/home/galaxy/projects/babynails/web-app/public/images/products/showcase_highend/pearl-glaze-almond-showcase-v1-01.jpg",
+    "clear": true,
+    "hand_ok": true,
+    "no_text_watermark_logo": true,
+    "issues": []
+  },
+  {
+    "sku": "pearl-glaze-almond",
+    "file": "/home/galaxy/projects/babynails/web-app/public/images/products/showcase_highend/pearl-glaze-almond-showcase-v1-02.jpg",
+    "clear": true,
+    "hand_ok": true,
+    "no_text_watermark_logo": true,
+    "issues": []
+  },
+  {
+    "sku": "luxury-coffin-marble",
+    "file": "/home/galaxy/projects/babynails/web-app/public/images/products/showcase_highend/luxury-coffin-marble-showcase-v1-01.jpg",
+    "clear": true,
+    "hand_ok": true,
+    "no_text_watermark_logo": true,
+    "issues": []
+  },
+  {
+    "sku": "luxury-coffin-marble",
+    "file": "/home/galaxy/projects/babynails/web-app/public/images/products/showcase_highend/luxury-coffin-marble-showcase-v1-02.jpg",
+    "clear": true,
+    "hand_ok": true,
+    "no_text_watermark_logo": true,
+    "issues": []
+  },
+  {
+    "sku": "french-glazed-donut",
+    "file": "/home/galaxy/projects/babynails/web-app/public/images/products/showcase_highend/french-glazed-donut-showcase-v1-01.jpg",
+    "clear": true,
+    "hand_ok": true,
+    "no_text_watermark_logo": true,
+    "issues": []
+  },
+  {
+    "sku": "french-glazed-donut",
+    "file": "/home/galaxy/projects/babynails/web-app/public/images/products/showcase_highend/french-glazed-donut-showcase-v1-02.jpg",
+    "clear": true,
+    "hand_ok": true,
+    "no_text_watermark_logo": true,
+    "issues": []
+  }
+]

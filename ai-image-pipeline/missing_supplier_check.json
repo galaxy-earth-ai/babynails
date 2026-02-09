@@ -1,0 +1,25 @@
+{
+  "supplier_dir": "/home/galaxy/projects/babynails/web-app/public/images/products/originals_backup",
+  "supplier_found": 3,
+  "supplier_skus": [
+    "3d-chrome-molten-gold",
+    "abstract-line-art",
+    "blush-aura"
+  ],
+  "missing_supplier_for_existing_product_skus": [
+    "blush-aura-korean-style",
+    "classic-velvet-cat-eye",
+    "cyberpunk-holo-graphic",
+    "french-glazed-donut",
+    "hand-painted-cherry-print",
+    "jelly-tint-ombre",
+    "luxury-coffin-marble",
+    "matte-gothic-noir",
+    "minimalist-milky-white",
+    "pearl-glaze-almond",
+    "pressed-flower-clear",
+    "rhinestone-encrusted",
+    "short-squoval-tortoise"
+  ],
+  "missing_count": 13
+}

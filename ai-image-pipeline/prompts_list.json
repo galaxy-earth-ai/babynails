@@ -1,0 +1,68 @@
+[
+  {
+    "sku": "3d-chrome-molten-gold",
+    "source_image": "/home/galaxy/projects/babynails/web-app/public/images/products/originals_backup/3d-chrome-molten-gold.png",
+    "analysis": {
+      "category": "穿戴甲/美甲成品",
+      "color_palette": "复古琥珀色系，搭配裸粉色透色、华丽金色及点缀白色",
+      "texture": "高光泽感、立体浮雕（手绘花朵）、金属质感（水波纹、描边）、镶嵌颗粒感（钻石、珍珠）",
+      "selling_points": "经典复古琥珀纹理，重工立体手绘花朵，流动的金色水波纹设计，奢华镶钻珍珠点缀，显手长尖形甲型",
+      "style": "复古奢华风，宫廷重工风",
+      "composition_suggestion": "适合搭配复古风格服饰（如丝绒、缎面材质）、晚礼服或秋冬深色大衣。饰品可搭配金色戒指、手链以呼应美甲的金属元素。适合重要场合或需要提升气场时佩戴。"
+    },
+    "prompt_zh_main": "BabyNails 品牌电商产品图，SKU: 3d-chrome-molten-gold。保持原始甲片设计元素与花纹，不改变核心配色（复古琥珀色系，搭配裸粉色透色、华丽金色及点缀白色）与质感（高光泽感、立体浮雕（手绘花朵）、金属质感（水波纹、描边）、镶嵌颗粒感（钻石、珍珠））。突出卖点：经典复古琥珀纹理，重工立体手绘花朵，流动的金色水波纹设计，奢华镶钻珍珠点缀，显手长尖形甲型。风格统一为 复古奢华风，宫廷重工风。画面要求：干净纯色浅背景（#F8F6F4 或 #FFFFFF），柔和棚拍主光+轻微补光，阴影自然，高清细节，真实皮肤质感，适用于电商 shop 卡片，1:1 构图，主体占画面 75%-85%。构图建议：适合搭配复古风格服饰（如丝绒、缎面材质）、晚礼服或秋冬深色大衣。饰品可搭配金色戒指、手链以呼应美甲的金属元素。适合重要场合或需要提升气场时佩戴。。",
+    "prompt_en_main": "BabyNails branded e-commerce product image, SKU: 3d-chrome-molten-gold. Preserve original nail design patterns and key color palette (复古琥珀色系，搭配裸粉色透色、华丽金色及点缀白色) with texture cues (高光泽感、立体浮雕（手绘花朵）、金属质感（水波纹、描边）、镶嵌颗粒感（钻石、珍珠）). Highlight selling points: 经典复古琥珀纹理，重工立体手绘花朵，流动的金色水波纹设计，奢华镶钻珍珠点缀，显手长尖形甲型. Unified style: 复古奢华风，宫廷重工风. Use clean solid light background (#F8F6F4 or #FFFFFF), soft studio key light with gentle fill, natural shadow, high detail, realistic skin texture, optimized for shop cards, square 1:1 composition, subject coverage 75-85%.",
+    "negative_prompt": "低清晰度, 过曝, 过饱和, 杂乱背景, 多只手重影, 手指畸形, 指甲数量错误, logo水印, 文字, 边框, 噪点, 压缩伪影, 血腥, 色情",
+    "composition_params": {
+      "aspect_ratio": "1:1",
+      "framing": "close-up product focus",
+      "lighting": "soft studio lighting",
+      "background": "clean minimal light solid",
+      "use_mode": "shop card / PDP thumbnail"
+    }
+  },
+  {
+    "sku": "abstract-line-art",
+    "source_image": "/home/galaxy/projects/babynails/web-app/public/images/products/originals_backup/abstract-line-art.png",
+    "analysis": {
+      "category": "穿戴甲",
+      "color_palette": "荧光粉色, 裸色, 黑色",
+      "texture": "哑光, 磨砂",
+      "selling_points": "吸睛荧光粉, 甜美爱心图案, 个性字母'love'设计, 磨砂高级质感, 显白, INS风",
+      "style": "甜酷风, 简约, 欧美风",
+      "composition_suggestion": "大拇指和小拇指纯荧光粉色磨砂，食指裸色磨砂底配黑色小爱心及粉黑线条，中指裸色磨砂底配黑色大爱心轮廓，无名指裸色磨砂底配粉色斜边及黑色'love'字母。"
+    },
+    "prompt_zh_main": "BabyNails 品牌电商产品图，SKU: abstract-line-art。保持原始甲片设计元素与花纹，不改变核心配色（荧光粉色, 裸色, 黑色）与质感（哑光, 磨砂）。突出卖点：吸睛荧光粉, 甜美爱心图案, 个性字母'love'设计, 磨砂高级质感, 显白, INS风。风格统一为 甜酷风, 简约, 欧美风。画面要求：干净纯色浅背景（#F8F6F4 或 #FFFFFF），柔和棚拍主光+轻微补光，阴影自然，高清细节，真实皮肤质感，适用于电商 shop 卡片，1:1 构图，主体占画面 75%-85%。构图建议：大拇指和小拇指纯荧光粉色磨砂，食指裸色磨砂底配黑色小爱心及粉黑线条，中指裸色磨砂底配黑色大爱心轮廓，无名指裸色磨砂底配粉色斜边及黑色'love'字母。。",
+    "prompt_en_main": "BabyNails branded e-commerce product image, SKU: abstract-line-art. Preserve original nail design patterns and key color palette (荧光粉色, 裸色, 黑色) with texture cues (哑光, 磨砂). Highlight selling points: 吸睛荧光粉, 甜美爱心图案, 个性字母'love'设计, 磨砂高级质感, 显白, INS风. Unified style: 甜酷风, 简约, 欧美风. Use clean solid light background (#F8F6F4 or #FFFFFF), soft studio key light with gentle fill, natural shadow, high detail, realistic skin texture, optimized for shop cards, square 1:1 composition, subject coverage 75-85%.",
+    "negative_prompt": "低清晰度, 过曝, 过饱和, 杂乱背景, 多只手重影, 手指畸形, 指甲数量错误, logo水印, 文字, 边框, 噪点, 压缩伪影, 血腥, 色情",
+    "composition_params": {
+      "aspect_ratio": "1:1",
+      "framing": "close-up product focus",
+      "lighting": "soft studio lighting",
+      "background": "clean minimal light solid",
+      "use_mode": "shop card / PDP thumbnail"
+    }
+  },
+  {
+    "sku": "blush-aura",
+    "source_image": "/home/galaxy/projects/babynails/web-app/public/images/products/originals_backup/blush-aura.png",
+    "analysis": {
+      "category": "美甲成品/穿戴甲",
+      "color_palette": "裸粉色, 透明色, 香槟金/金属光泽",
+      "texture": "光面, 通透感, 金属感",
+      "selling_points": "清透裸感底色, 独特的透明金属法式边, 简约高级, 显手白",
+      "style": "简约, 法式, INS风, 高级感",
+      "composition_suggestion": "适合搭配简约戒指，拍摄时背景保持干净整洁，突出手部和指甲细节"
+    },
+    "prompt_zh_main": "BabyNails 品牌电商产品图，SKU: blush-aura。保持原始甲片设计元素与花纹，不改变核心配色（裸粉色, 透明色, 香槟金/金属光泽）与质感（光面, 通透感, 金属感）。突出卖点：清透裸感底色, 独特的透明金属法式边, 简约高级, 显手白。风格统一为 简约, 法式, INS风, 高级感。画面要求：干净纯色浅背景（#F8F6F4 或 #FFFFFF），柔和棚拍主光+轻微补光，阴影自然，高清细节，真实皮肤质感，适用于电商 shop 卡片，1:1 构图，主体占画面 75%-85%。构图建议：适合搭配简约戒指，拍摄时背景保持干净整洁，突出手部和指甲细节。",
+    "prompt_en_main": "BabyNails branded e-commerce product image, SKU: blush-aura. Preserve original nail design patterns and key color palette (裸粉色, 透明色, 香槟金/金属光泽) with texture cues (光面, 通透感, 金属感). Highlight selling points: 清透裸感底色, 独特的透明金属法式边, 简约高级, 显手白. Unified style: 简约, 法式, INS风, 高级感. Use clean solid light background (#F8F6F4 or #FFFFFF), soft studio key light with gentle fill, natural shadow, high detail, realistic skin texture, optimized for shop cards, square 1:1 composition, subject coverage 75-85%.",
+    "negative_prompt": "低清晰度, 过曝, 过饱和, 杂乱背景, 多只手重影, 手指畸形, 指甲数量错误, logo水印, 文字, 边框, 噪点, 压缩伪影, 血腥, 色情",
+    "composition_params": {
+      "aspect_ratio": "1:1",
+      "framing": "close-up product focus",
+      "lighting": "soft studio lighting",
+      "background": "clean minimal light solid",
+      "use_mode": "shop card / PDP thumbnail"
+    }
+  }
+]
