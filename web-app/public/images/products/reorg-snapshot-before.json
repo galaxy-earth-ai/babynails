@@ -1,0 +1,206 @@
+{
+  "root": "/home/galaxy/projects/babynails/web-app/public/images/products",
+  "total_files": 40,
+  "files": [
+    {
+      "path": ".gitkeep",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "3d-chrome-molten-gold.png",
+      "size": 704259,
+      "sha256": "a7026daa0ee13e0fc26a88df705aa86e45cafc13190a67801e7c674db2af3481"
+    },
+    {
+      "path": "abstract-line-art.png",
+      "size": 616755,
+      "sha256": "fe0d931a885e133947caed121afa852a770f6de6e644bb01f6c2a630a7dd89eb"
+    },
+    {
+      "path": "blush-aura-korean-style.png",
+      "size": 19248,
+      "sha256": "e6d7c436d9ffe91434c25e928a9cab1b45bc520b7bf14d3dce1e7e405a05724f"
+    },
+    {
+      "path": "blush-aura.png",
+      "size": 725362,
+      "sha256": "828faf2811b2a27c6fee9944021c0d40abeffd537e826a0033b72fda39408a38"
+    },
+    {
+      "path": "brand_generated/3d-chrome-molten-gold-brand-v1.png",
+      "size": 647302,
+      "sha256": "fbd16c73d3bb288caa1249b0645a2bac4fa67780bec9028b4010621310475ccc"
+    },
+    {
+      "path": "brand_generated/abstract-line-art-brand-v1.png",
+      "size": 628635,
+      "sha256": "63b2b6af84f42f3209f3f07d94de11e69ac5bbdbb4e750d6a4505c15b105bead"
+    },
+    {
+      "path": "brand_generated/blush-aura-brand-v1.png",
+      "size": 640880,
+      "sha256": "0ded1546b2d5bbd67c7ab6e5cd81402455c44768fffaa3e0a5f2c5a99ae8ec45"
+    },
+    {
+      "path": "brand_generated_highend/french-glazed-donut-highend-v1.jpg",
+      "size": 555433,
+      "sha256": "4011d6ad0d62eb947735080fc483ae4ccc71e00d00763d01ebf3193fd5afbf4a"
+    },
+    {
+      "path": "brand_generated_highend/luxury-coffin-marble-highend-v1.jpg",
+      "size": 508795,
+      "sha256": "1ca7d22a62acaa66faa200375b22b1b0a993ef70c529d680b2d91a943ffc1241"
+    },
+    {
+      "path": "brand_generated_highend/pearl-glaze-almond-highend-v1.jpg",
+      "size": 522514,
+      "sha256": "e7bac01bd6d702f1b1bb8a3e0604ba68c04b03b79f8859004cc63aab9a4ebf49"
+    },
+    {
+      "path": "classic-velvet-cat-eye.png",
+      "size": 218322,
+      "sha256": "2408a88aef771e553972ae6954a9fa89c9d1edeb7fd648f25a63edde42d24842"
+    },
+    {
+      "path": "cyberpunk-holo-graphic.png",
+      "size": 174952,
+      "sha256": "7b2522cc5db35a0dd02bcbf4420f3a04e3fba4e4d80c89182ca51be6e24b5e12"
+    },
+    {
+      "path": "french-glazed-donut.png",
+      "size": 109032,
+      "sha256": "20c428e9aa03215cc4f149ef19246588a43f3eac1a1b8470db1cf6fd4fee4212"
+    },
+    {
+      "path": "hand-painted-cherry-print.png",
+      "size": 306190,
+      "sha256": "8d73dd39790658245a3e94193a48d679c6eb13c7c1a95f492eb77e0d4d874e71"
+    },
+    {
+      "path": "jelly-tint-ombre.png",
+      "size": 77898,
+      "sha256": "07c170705a1e3ebed44a523095bca2f1abb9d147a44df749b54a86e116ef24e0"
+    },
+    {
+      "path": "luxury-coffin-marble.png",
+      "size": 33976,
+      "sha256": "5e27f298f542eab7a0b65cca2ec6fb5d626c40187be4a38a1310b3df458e1272"
+    },
+    {
+      "path": "matte-gothic-noir.png",
+      "size": 179376,
+      "sha256": "f67ee656010f9574bd0849b378da79a5ba4b1507583c4cf6a3799920437f3b03"
+    },
+    {
+      "path": "minimalist-milky-white.png",
+      "size": 80230,
+      "sha256": "120de56e7a33774a843a5583fe76099dd1e4d5c5ea7687b2ab080fd5e5f87acd"
+    },
+    {
+      "path": "originals_backup/3d-chrome-molten-gold.png",
+      "size": 99292,
+      "sha256": "67a574dc08800253e84108090b0110689bee5c54b865d11205e6f16d25aa5811"
+    },
+    {
+      "path": "originals_backup/abstract-line-art.png",
+      "size": 24258,
+      "sha256": "092642474a8732b0f5dace9016cffbc11994601c5e4a887db9693911f26723db"
+    },
+    {
+      "path": "originals_backup/blush-aura.png",
+      "size": 19248,
+      "sha256": "e6d7c436d9ffe91434c25e928a9cab1b45bc520b7bf14d3dce1e7e405a05724f"
+    },
+    {
+      "path": "pearl-glaze-almond.png",
+      "size": 94406,
+      "sha256": "3446c8775d51e2651166e7f19a01e661b66f97887739520f3f14910d96b0f110"
+    },
+    {
+      "path": "pressed-flower-clear.png",
+      "size": 552058,
+      "sha256": "12f9ddc7fdc5e4605b513df98c7ab2a8e347baf2dc3c760ae145a259b68309a4"
+    },
+    {
+      "path": "remastered/3d-chrome-molten-gold.png",
+      "size": 704259,
+      "sha256": "a7026daa0ee13e0fc26a88df705aa86e45cafc13190a67801e7c674db2af3481"
+    },
+    {
+      "path": "remastered/abstract-line-art.png",
+      "size": 616755,
+      "sha256": "fe0d931a885e133947caed121afa852a770f6de6e644bb01f6c2a630a7dd89eb"
+    },
+    {
+      "path": "remastered/blush-aura.png",
+      "size": 725362,
+      "sha256": "828faf2811b2a27c6fee9944021c0d40abeffd537e826a0033b72fda39408a38"
+    },
+    {
+      "path": "rhinestone-encrusted.png",
+      "size": 198646,
+      "sha256": "eb2054257566b38509d4fb414d966771788511df0184210efd5a0a2940479854"
+    },
+    {
+      "path": "short-squoval-tortoise.png",
+      "size": 95292,
+      "sha256": "ad8ac859aab76342abb2f18a03402345bd760b6a85433c722d6220f8faf99175"
+    },
+    {
+      "path": "showcase_highend/french-glazed-donut-showcase-v1-01.jpg",
+      "size": 581837,
+      "sha256": "467fb3509eb471ce0b186da4ec522099e23bb95094d4b417e6b8f6de001a1387"
+    },
+    {
+      "path": "showcase_highend/french-glazed-donut-showcase-v1-02.jpg",
+      "size": 613392,
+      "sha256": "86fe3115e799f6ab7bb2324b0bb0b67204ef0bed175def261dd27133fccf6646"
+    },
+    {
+      "path": "showcase_highend/luxury-coffin-marble-showcase-v1-01.jpg",
+      "size": 572800,
+      "sha256": "b21211ba3cf786408fb4879a868744f5cb3e7af1ab738128ab0538002c2055dd"
+    },
+    {
+      "path": "showcase_highend/luxury-coffin-marble-showcase-v1-02.jpg",
+      "size": 669398,
+      "sha256": "664c567472d6f01781c244c23518a1190fcc26d447c99b8cbd3c16d9ffa6469f"
+    },
+    {
+      "path": "showcase_highend/pearl-glaze-almond-showcase-v1-01.jpg",
+      "size": 589502,
+      "sha256": "12d44ecd2f039343014228891a4a6ad82eb9baafcb3368304b3f87f12828869b"
+    },
+    {
+      "path": "showcase_highend/pearl-glaze-almond-showcase-v1-02.jpg",
+      "size": 600116,
+      "sha256": "b737393a878e028abb5e50f7da0f0783010da74f062fd5a33d3eed6d3a3cd949"
+    },
+    {
+      "path": "showcase_highend_noface/cyberpunk-holo-graphic-showcase-noface-v1-fix-01.jpg",
+      "size": 633396,
+      "sha256": "46edf7ae4f3d55f7e63980a0b61ac26192251612bbed2241104aa4960850b0b2"
+    },
+    {
+      "path": "showcase_highend_noface/cyberpunk-holo-graphic-showcase-noface-v2-brand-natural.jpg",
+      "size": 596777,
+      "sha256": "18a6c93126200e5e69cfbfdbfadb2c68abbef9308e07a497d20a2aae63342545"
+    },
+    {
+      "path": "showcase_highend_noface/french-glazed-donut-showcase-noface-v3-fix-01.jpg",
+      "size": 716446,
+      "sha256": "ae7ad506e701e972204a559e749ad5ac38154740887ab83979aedad0a640b505"
+    },
+    {
+      "path": "showcase_highend_noface/luxury-coffin-marble-showcase-noface-v2-02.jpg",
+      "size": 703252,
+      "sha256": "52d49a41ba7d254ca10ec22faf5ef3ad2e506a1d68b2a40f674384f44f7e5010"
+    },
+    {
+      "path": "showcase_highend_noface/pearl-glaze-almond-showcase-noface-v2-01.jpg",
+      "size": 727660,
+      "sha256": "a16a0335b0a16483490fce6667ff08116df4f854376f0909406dea982cdf64e6"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "snapshot_before": "/home/galaxy/projects/babynails/web-app/public/images/products/reorg-snapshot-before.json",
+  "total_files_before": 40,
+  "moved_files_count": 39,
+  "moves": [
+    {
+      "old": "3d-chrome-molten-gold.png",
+      "new": "supplier_originals/3d-chrome-molten-gold.png",
+      "reason": "root-level base product asset treated as supplier original source"
+    },
+    {
+      "old": "abstract-line-art.png",
+      "new": "supplier_originals/abstract-line-art.png",
+      "reason": "root-level base product asset treated as supplier original source"
+    },
+    {
+      "old": "blush-aura-korean-style.png",
+      "new": "pending_review/blush-aura-korean-style.png",
+      "reason": "ambiguous root-level variant naming; requires confirmation"
+    },
+    {
+      "old": "blush-aura.png",
+      "new": "supplier_originals/blush-aura.png",
+      "reason": "root-level base product asset treated as supplier original source"
+    },
+    {
+      "old": "brand_generated/3d-chrome-molten-gold-brand-v1.png",
+      "new": "ai_product_images/brand_generated/3d-chrome-molten-gold-brand-v1.png",
+      "reason": "directory brand_generated indicates AI-generated/remastered product images"
+    },
+    {
+      "old": "brand_generated/abstract-line-art-brand-v1.png",
+      "new": "ai_product_images/brand_generated/abstract-line-art-brand-v1.png",
+      "reason": "directory brand_generated indicates AI-generated/remastered product images"
+    },
+    {
+      "old": "brand_generated/blush-aura-brand-v1.png",
+      "new": "ai_product_images/brand_generated/blush-aura-brand-v1.png",
+      "reason": "directory brand_generated indicates AI-generated/remastered product images"
+    },
+    {
+      "old": "brand_generated_highend/french-glazed-donut-highend-v1.jpg",
+      "new": "ai_product_images/brand_generated_highend/french-glazed-donut-highend-v1.jpg",
+      "reason": "directory brand_generated_highend indicates AI-generated/remastered product images"
+    },
+    {
+      "old": "brand_generated_highend/luxury-coffin-marble-highend-v1.jpg",
+      "new": "ai_product_images/brand_generated_highend/luxury-coffin-marble-highend-v1.jpg",
+      "reason": "directory brand_generated_highend indicates AI-generated/remastered product images"
+    },
+    {
+      "old": "brand_generated_highend/pearl-glaze-almond-highend-v1.jpg",
+      "new": "ai_product_images/brand_generated_highend/pearl-glaze-almond-highend-v1.jpg",
+      "reason": "directory brand_generated_highend indicates AI-generated/remastered product images"
+    },
+    {
+      "old": "classic-velvet-cat-eye.png",
+      "new": "supplier_originals/classic-velvet-cat-eye.png",
+      "reason": "root-level base product asset treated as supplier original source"
+    },
+    {
+      "old": "cyberpunk-holo-graphic.png",
+      "new": "supplier_originals/cyberpunk-holo-graphic.png",
+      "reason": "root-level base product asset treated as supplier original source"
+    },
+    {
+      "old": "french-glazed-donut.png",
+      "new": "supplier_originals/french-glazed-donut.png",
+      "reason": "root-level base product asset treated as supplier original source"
+    },
+    {
+      "old": "hand-painted-cherry-print.png",
+      "new": "supplier_originals/hand-painted-cherry-print.png",
+      "reason": "root-level base product asset treated as supplier original source"
+    },
+    {
+      "old": "jelly-tint-ombre.png",
+      "new": "supplier_originals/jelly-tint-ombre.png",
+      "reason": "root-level base product asset treated as supplier original source"
+    },
+    {
+      "old": "luxury-coffin-marble.png",
+      "new": "supplier_originals/luxury-coffin-marble.png",
+      "reason": "root-level base product asset treated as supplier original source"
+    },
+    {
+      "old": "matte-gothic-noir.png",
+      "new": "supplier_originals/matte-gothic-noir.png",
+      "reason": "root-level base product asset treated as supplier original source"
+    },
+    {
+      "old": "minimalist-milky-white.png",
+      "new": "supplier_originals/minimalist-milky-white.png",
+      "reason": "root-level base product asset treated as supplier original source"
+    },
+    {
+      "old": "originals_backup/3d-chrome-molten-gold.png",
+      "new": "supplier_originals/originals_backup/3d-chrome-molten-gold.png",
+      "reason": "directory originals_backup indicates supplier originals backup"
+    },
+    {
+      "old": "originals_backup/abstract-line-art.png",
+      "new": "supplier_originals/originals_backup/abstract-line-art.png",
+      "reason": "directory originals_backup indicates supplier originals backup"
+    },
+    {
+      "old": "originals_backup/blush-aura.png",
+      "new": "supplier_originals/originals_backup/blush-aura.png",
+      "reason": "directory originals_backup indicates supplier originals backup"
+    },
+    {
+      "old": "pearl-glaze-almond.png",
+      "new": "supplier_originals/pearl-glaze-almond.png",
+      "reason": "root-level base product asset treated as supplier original source"
+    },
+    {
+      "old": "pressed-flower-clear.png",
+      "new": "supplier_originals/pressed-flower-clear.png",
+      "reason": "root-level base product asset treated as supplier original source"
+    },
+    {
+      "old": "remastered/3d-chrome-molten-gold.png",
+      "new": "ai_product_images/remastered/3d-chrome-molten-gold.png",
+      "reason": "directory remastered indicates AI-generated/remastered product images"
+    },
+    {
+      "old": "remastered/abstract-line-art.png",
+      "new": "ai_product_images/remastered/abstract-line-art.png",
+      "reason": "directory remastered indicates AI-generated/remastered product images"
+    },
+    {
+      "old": "remastered/blush-aura.png",
+      "new": "ai_product_images/remastered/blush-aura.png",
+      "reason": "directory remastered indicates AI-generated/remastered product images"
+    },
+    {
+      "old": "rhinestone-encrusted.png",
+      "new": "supplier_originals/rhinestone-encrusted.png",
+      "reason": "root-level base product asset treated as supplier original source"
+    },
+    {
+      "old": "short-squoval-tortoise.png",
+      "new": "supplier_originals/short-squoval-tortoise.png",
+      "reason": "root-level base product asset treated as supplier original source"
+    },
+    {
+      "old": "showcase_highend/french-glazed-donut-showcase-v1-01.jpg",
+      "new": "ai_showcase_images/showcase_highend/french-glazed-donut-showcase-v1-01.jpg",
+      "reason": "directory showcase_highend indicates showcase output"
+    },
+    {
+      "old": "showcase_highend/french-glazed-donut-showcase-v1-02.jpg",
+      "new": "ai_showcase_images/showcase_highend/french-glazed-donut-showcase-v1-02.jpg",
+      "reason": "directory showcase_highend indicates showcase output"
+    },
+    {
+      "old": "showcase_highend/luxury-coffin-marble-showcase-v1-01.jpg",
+      "new": "ai_showcase_images/showcase_highend/luxury-coffin-marble-showcase-v1-01.jpg",
+      "reason": "directory showcase_highend indicates showcase output"
+    },
+    {
+      "old": "showcase_highend/luxury-coffin-marble-showcase-v1-02.jpg",
+      "new": "ai_showcase_images/showcase_highend/luxury-coffin-marble-showcase-v1-02.jpg",
+      "reason": "directory showcase_highend indicates showcase output"
+    },
+    {
+      "old": "showcase_highend/pearl-glaze-almond-showcase-v1-01.jpg",
+      "new": "ai_showcase_images/showcase_highend/pearl-glaze-almond-showcase-v1-01.jpg",
+      "reason": "directory showcase_highend indicates showcase output"
+    },
+    {
+      "old": "showcase_highend/pearl-glaze-almond-showcase-v1-02.jpg",
+      "new": "ai_showcase_images/showcase_highend/pearl-glaze-almond-showcase-v1-02.jpg",
+      "reason": "directory showcase_highend indicates showcase output"
+    },
+    {
+      "old": "showcase_highend_noface/cyberpunk-holo-graphic-showcase-noface-v1-fix-01.jpg",
+      "new": "ai_showcase_images/showcase_highend_noface/cyberpunk-holo-graphic-showcase-noface-v1-fix-01.jpg",
+      "reason": "directory showcase_highend_noface indicates showcase output"
+    },
+    {
+      "old": "showcase_highend_noface/cyberpunk-holo-graphic-showcase-noface-v2-brand-natural.jpg",
+      "new": "ai_showcase_images/showcase_highend_noface/cyberpunk-holo-graphic-showcase-noface-v2-brand-natural.jpg",
+      "reason": "directory showcase_highend_noface indicates showcase output"
+    },
+    {
+      "old": "showcase_highend_noface/french-glazed-donut-showcase-noface-v3-fix-01.jpg",
+      "new": "ai_showcase_images/showcase_highend_noface/french-glazed-donut-showcase-noface-v3-fix-01.jpg",
+      "reason": "directory showcase_highend_noface indicates showcase output"
+    },
+    {
+      "old": "showcase_highend_noface/luxury-coffin-marble-showcase-noface-v2-02.jpg",
+      "new": "ai_showcase_images/showcase_highend_noface/luxury-coffin-marble-showcase-noface-v2-02.jpg",
+      "reason": "directory showcase_highend_noface indicates showcase output"
+    },
+    {
+      "old": "showcase_highend_noface/pearl-glaze-almond-showcase-noface-v2-01.jpg",
+      "new": "ai_showcase_images/showcase_highend_noface/pearl-glaze-almond-showcase-noface-v2-01.jpg",
+      "reason": "directory showcase_highend_noface indicates showcase output"
+    }
+  ],
+  "reference_updates": {
+    "changed_files_count": 6,
+    "changed_files": {
+      "/home/galaxy/projects/babynails/web-app/.next/server/app/index.html": 10,
+      "/home/galaxy/projects/babynails/web-app/.next/server/app/shop.html": 41,
+      "/home/galaxy/projects/babynails/web-app/.next/server/app/page.js.nft.json": 39,
+      "/home/galaxy/projects/babynails/web-app/.next/server/app/shop/page.js.nft.json": 39,
+      "/home/galaxy/projects/babynails/web-app/.next/server/app/api/vton/route.js.nft.json": 39,
+      "/home/galaxy/projects/babynails/web-app/.next/server/app/shop/[slug]/page.js.nft.json": 39
+    },
+    "total_replacements": 207,
+    "manual_logic_updated_files": [
+      "/home/galaxy/projects/babynails/web-app/src/lib/products.ts",
+      "/home/galaxy/projects/babynails/web-app/src/app/api/vton/route.ts"
+    ],
+    "changed_files_count_including_logic": 8
+  },
+  "uncertain_items": [
+    "blush-aura-korean-style.png"
+  ],
+  "category_rules": {
+    "supplier_originals": [
+      "originals_backup/**",
+      "root-level base product images (*.{png,jpg,jpeg,webp,gif,avif}) except ambiguous variants"
+    ],
+    "ai_product_images": [
+      "brand_generated/**",
+      "brand_generated_highend/**",
+      "remastered/**"
+    ],
+    "ai_showcase_images": [
+      "showcase_*/**"
+    ],
+    "pending_review": [
+      "ambiguous names or unmatched paths"
+    ]
+  },
+  "artifacts": {
+    "rollback_script": "/home/galaxy/projects/babynails/web-app/public/images/products/reorg-rollback.sh",
+    "reference_patch": "/home/galaxy/projects/babynails/web-app/public/images/products/reorg-reference.patch",
+    "report": "/home/galaxy/projects/babynails/web-app/IMAGE-REORG-REPORT.md"
+  }
+}
